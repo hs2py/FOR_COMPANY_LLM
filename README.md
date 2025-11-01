@@ -1,9 +1,5 @@
 ###result of the dot_product.py
-
 <img width="512" height="428" alt="image" src="https://github.com/user-attachments/assets/81f2b394-4fdd-4136-9b2e-984f7aad04db" />
-
-
-
 
 
 ###result of the multi_head_att.py
