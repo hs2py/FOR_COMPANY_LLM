@@ -5,7 +5,7 @@
 # 이후 각 dot_product계산한 헤드 들을 연결 -> fully connected .
 
 # 임베딩된 고차원 데이터를 다양한 관점에서 바라보고 이 각각을 합쳐서 판단하여 결과를 예측해보자.
-# attention 시각화는 추가했으니 참고하자
+# 버전 수정 및 attention 시각화는 추가했으니 참고하자
 
 
 import torch
